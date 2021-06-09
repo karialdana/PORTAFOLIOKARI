@@ -7,6 +7,9 @@ Body{
     width: ;
     padding: ;
 }
+<button aria-current="true" aria-label="Slide 1" class="active" data-bs-slide-to="0"
+        data-bs-target="#carouselExampleDark" type="button">
+       </button>
 .active
 
 .carousel{
