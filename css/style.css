@@ -796,7 +796,10 @@ $grey: #999;
      text-align: center;
      display: inline-block;
 }
+.bg{
+     background:indigo;
 
+}
 .cont a:hover {
      background-color: #fd882f;
      transition: ease-in all 0.5s;
